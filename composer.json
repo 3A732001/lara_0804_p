@@ -1,0 +1,13 @@
+{
+    "name": "ncut/lara_0804_p",
+    "description": "\"autoload\"",
+    "authors": [
+        {
+            "name": "Chen Dong Meng",
+            "email": "3a732001@gm.student.ncut.edu.tw"
+        }
+    ],
+    "require": {
+      "nesbot/carbon": "^2.39.0"
+    }
+}
